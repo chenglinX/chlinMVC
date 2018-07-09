@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="chlinMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="chlinMVC-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="chlinMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
